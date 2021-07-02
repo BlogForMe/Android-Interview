@@ -30,15 +30,11 @@ https://www.gitbook.com/book/alleniverson/android-interview/details
 
 2. [2016Android某公司面试题](http://blog.csdn.net/jdsjlzx/article/details/51201925)
 
-3. [BAT无线工程师面试流程详细解析](http://blog.csdn.net/axi295309066/article/details/52317615)
-
 4. [阿里面经1](http://blog.csdn.net/axi295309066/article/details/50512835)
 
 5. [ Android面试题整理](http://blog.csdn.net/x605940745/article/category/1808335)
 
-6. [2016Android某公司面试题](http://yuweiguocn.github.io/interview-2016-big-company/)
-
-7. [Android面试题集合](http://blog.csdn.net/axi295309066/article/details/54089310)
+6. [Android面试题集合](http://blog.csdn.net/axi295309066/article/details/54089310)
 
 8. [Android 开发工程师面试指南](https://github.com/GeniusVJR/LearningNotes)
 
@@ -46,7 +42,7 @@ https://www.gitbook.com/book/alleniverson/android-interview/details
 
    
 
-   
+   [BAT无线工程师面试流程详细解析](http://blog.csdn.net/axi295309066/article/details/52317615)
 
    [interview-about](https://github.com/closedevice/interview-about)
 
