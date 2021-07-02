@@ -26,9 +26,9 @@ https://www.gitbook.com/book/alleniverson/android-interview/details
 
 ## Android面试
 
-1. [史上最全 Android 面试资料集合](Android/史上最全 Android 面试资料集合.md)
+史上最全 Android 面试资料集合
 
-2. [2016Android某公司面试题](http://blog.csdn.net/jdsjlzx/article/details/51201925)
+1. [2016Android某公司面试题](http://blog.csdn.net/jdsjlzx/article/details/51201925)
 
 4. [阿里面经1](http://blog.csdn.net/axi295309066/article/details/50512835)
 
